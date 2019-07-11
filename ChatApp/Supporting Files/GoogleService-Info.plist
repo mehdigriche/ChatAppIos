@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>756025614161-ftdupkmcfm2ol59u8tu77ip49kqhmfop.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.756025614161-ftdupkmcfm2ol59u8tu77ip49kqhmfop</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrHOKddHhA_PYcPkeQw1I1O0lqurpJY_0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>756025614161</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nevermind.ChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>ioschatapp-e5f7c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ioschatapp-e5f7c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:756025614161:ios:0126377ff57bdbcf</string>
+	<key>DATABASE_URL</key>
+	<string>https://ioschatapp-e5f7c.firebaseio.com</string>
+</dict>
+</plist>
